@@ -1,14 +1,29 @@
 .template-image{
     width: 500px;
     height: 500px;
+    margin: 20px;
 }
 
 .container{
     border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
 }
 
 .image-selector{
     border: 1px solid black;
     width: 500px;
     height: 500px;
+    margin: 20px;
+}
+
+.internal-photo{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin-top: -300px;
+    z-index: 2;
+    top: 20px;
 }
