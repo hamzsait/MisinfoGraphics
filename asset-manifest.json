@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MisinfoGraphics/static/css/main.f729c992.chunk.css",
+    "main.js": "/MisinfoGraphics/static/js/main.6851fdca.chunk.js",
+    "main.js.map": "/MisinfoGraphics/static/js/main.6851fdca.chunk.js.map",
+    "runtime-main.js": "/MisinfoGraphics/static/js/runtime-main.70fbaf7f.js",
+    "runtime-main.js.map": "/MisinfoGraphics/static/js/runtime-main.70fbaf7f.js.map",
+    "static/js/2.373ca293.chunk.js": "/MisinfoGraphics/static/js/2.373ca293.chunk.js",
+    "static/js/2.373ca293.chunk.js.map": "/MisinfoGraphics/static/js/2.373ca293.chunk.js.map",
+    "index.html": "/MisinfoGraphics/index.html",
+    "static/css/main.f729c992.chunk.css.map": "/MisinfoGraphics/static/css/main.f729c992.chunk.css.map",
+    "static/js/2.373ca293.chunk.js.LICENSE.txt": "/MisinfoGraphics/static/js/2.373ca293.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70fbaf7f.js",
+    "static/js/2.373ca293.chunk.js",
+    "static/css/main.f729c992.chunk.css",
+    "static/js/main.6851fdca.chunk.js"
+  ]
+}
